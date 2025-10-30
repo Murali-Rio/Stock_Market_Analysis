@@ -4,7 +4,7 @@ A comprehensive real-time stock market analysis dashboard built with Streamlit, 
 
 **Clone the repository:**
 
-git clone https://github.com/yourusername/stock-market-analysis.git
+git clone https://github.com/Murali-Rio/stock-market-analysis.git
 cd stock-market-analysis
 
 **Install dependencies:**
